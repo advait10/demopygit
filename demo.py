@@ -20,3 +20,7 @@ for i in range(n):
     else:
         print('-'*i,'*','-'*(2*n-(2*i+3)),'*')
     # time.sleep(3)
+
+# -------New commit 2-----------------
+
+print('hi rakesh how are you....')
